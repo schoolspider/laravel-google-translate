@@ -18,7 +18,7 @@ trait SupportedLanguages
             'ne', 'nl', 'no', 'ny', 'pa', 'pl', 'ps', 'pt',
             'ro', 'ru', 'sd', 'si', 'sk', 'sl', 'sm', 'sn',
             'so', 'sq', 'sr', 'st', 'su', 'sv', 'sw', 'ta',
-            'te', 'tg', 'th', 'tl', 'tr', 'uk', 'ur', 'uz',
+            'te', 'tg', 'th', 'ti', 'tl', 'tr', 'uk', 'ur', 'uz',
             'vi', 'xh', 'yi', 'yo', 'zh', 'zh-TW', 'zu'
         ];
     }
