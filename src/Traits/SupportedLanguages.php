@@ -7,7 +7,7 @@ trait SupportedLanguages
     public function languages(): array
     {
         return [
-            'af', 'am', 'ar', 'az', 'be', 'bg', 'bn', 'bs', 'ca',
+            'af', 'ak', 'am', 'ar', 'az', 'be', 'bg', 'bn', 'bs', 'ca',
             'ceb', 'co', 'cs', 'cy', 'da', 'de', 'el', 'en',
             'eo', 'es', 'et', 'eu', 'fa', 'fi', 'fr', 'fy',
             'ga', 'gd', 'gl', 'gu', 'ha', 'haw', 'he', 'hi', 'hmn',
