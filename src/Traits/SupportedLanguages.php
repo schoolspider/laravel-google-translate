@@ -13,7 +13,7 @@ trait SupportedLanguages
             'ga', 'gd', 'gl', 'gu', 'ha', 'haw', 'he', 'hi', 'hmn',
             'hr', 'ht', 'hu', 'hy', 'id', 'ig', 'is', 'it',
             'iw', 'ja', 'jw', 'ka', 'kk', 'km', 'kn', 'ko',
-            'ku', 'ky', 'la', 'lb', 'lo', 'lt', 'lv', 'mg',
+            'ku', 'ky', 'la', 'lb', 'ln', 'lo', 'lt', 'lv', 'mg',
             'mi', 'mk', 'ml', 'mn', 'mr', 'ms', 'mt', 'my',
             'ne', 'nl', 'no', 'ny', 'pa', 'pl', 'ps', 'pt',
             'ro', 'ru', 'sd', 'si', 'sk', 'sl', 'sm', 'sn',
