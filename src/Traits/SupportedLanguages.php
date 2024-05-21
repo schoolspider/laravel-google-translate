@@ -8,7 +8,7 @@ trait SupportedLanguages
     {
         return [
             'af', 'ak', 'am', 'ar', 'az', 'be', 'bg', 'bn', 'bho', 'bs', 'ca',
-            'ceb', 'co', 'cs', 'cy', 'da', 'de', 'el', 'en',
+            'ceb', 'ckb', 'co', 'cs', 'cy', 'da', 'de', 'el', 'en',
             'eo', 'es', 'et', 'eu', 'fa', 'fi', 'fr', 'fy',
             'ga', 'gd', 'gl', 'gu', 'ha', 'haw', 'he', 'hi', 'hmn',
             'hr', 'ht', 'hu', 'hy', 'id', 'ig', 'is', 'it',
